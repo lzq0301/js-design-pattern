@@ -41,8 +41,8 @@
 Author ：Alex Lee
 简单说明：
     class 考场:人的组合 class = [1,2,3,4,5]
-    group 考场的组合 group = [[class],[class]
-    分组情况 是group的组合 array = [[group],[group]];
+    group 考场的组合 group = [class,class]
+    分组情况 是group的组合 array = [group,group];
 
     所有人在一个考场为初始
     每个人判断是否能在此考场内，能就保留方案，不能就增加考场保留方案
